@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbkashif
+- 👋 Hi, I’m Salman
 - 👀 I’m interested in compuational molecular science
 - 🌱 I’m currently learning forward flux sampling and machine learning techniques to study desalination membranes
 - 💞️ I’m looking to collaborate on using molecular simulationas to study fouling and solute selectivity in desalination membranes
