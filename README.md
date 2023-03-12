@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman
 - 👀 I’m interested in compuational molecular science
-- 🌱 I’m currently learning forward flux sampling and machine learning techniques to study desalination membranes
-- 💞️ I’m looking to collaborate on studying desalination membranes using molecular simulations
+- 🌱 I’m currently using advanced simulation techniques to study membrane fouling and selectivity
+- 💞️ I’m looking to collaborate on using machine learning techaniques to enhance the undersatnding of my MD results
 - 📫 You can reach me at: sbinkas@clemson.edu
 
 <!---
