@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman
-- 👀 I’m interested in compuational molecular science
-- 🌱 I’m currently using advanced simulation techniques to study membrane fouling and selectivity
-- 💞️ I’m looking to collaborate on a) applying advanced statistical tools for better analyzing my molecular simulation trajectories  and b) exploring parallel programming versions of my codes.
+- 👀 I’m interested in computational chemistry
+- 🌱 I’m currently using molecular dynamics simulations and machine learning to study water filtration membrane fouling and selectivity
+- 💞️ I’m looking to collaborate on a) applying advanced statistical methods to analyze my simulation data  and b) exploring parallel programming versions of my codes.
 - 📫 You can reach out to me at `sbinkas@clemson.edu`
 
 <!---
