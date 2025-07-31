@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Salman
-- 👀 I’m interested in molecular modeling and scientific software development
-- 🌱 I’m currently using molecular dynamics simulations and machine learning to study chemical separations
-- 💞️ I’m looking to collaborate on exploring parallelized versions of my codes.
-- 📫 You can reach out to me at `sbinkas[at]clemson[dot]edu`
+- 👀 I’m interested in molecular simulations and scientific software development
+- 🌱 I’m currently using molecular dynamics simulations, Monte Carlo simulations and machine learning to study chemical separations
+- 💞️ I’m looking to collaborate on: [giving] developing automated workflows for your projects, [taking] exploring advanced ML methods to get more answers from my molecular simulations
+- 📫 You can reach out to me at `salmabi[at]buffalo[dot]edu`
 
 <!---
 sbkashif/sbkashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
