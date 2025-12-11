@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Salman
-- 👀 I’m interested in molecular simulations and scientific software development
-- 🌱 I’m currently using molecular dynamics simulations, Monte Carlo simulations and machine learning to study chemical separations
-- 💞️ I’m looking to collaborate on: [giving] developing automated workflows for your projects, [taking] exploring advanced ML methods to get more answers from my molecular simulations
+- 👋 Hi, I’m Salman, currently a research professional at the University of Minnesota
+- 👀 I’m interested in developing scientific software and automated workflows for performing high-throughput molecular simulations for complexities not supported by available tools
+- 🌱 I’m currently using a range of molecular simulation and machine learning techniques to investigate chemical separation mechanisms at nanoscale and propose better materials
+- 💞️ I’m looking to collaborate on: [giving] developing automated workflows for your projects, [taking] exploring advanced ML methods to get newer insights from my molecular simulation runs
 - 📫 You can reach out to me at `salmanbi[at]buffalo[dot]edu`
 
 <!---
