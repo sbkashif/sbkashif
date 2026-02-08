@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Salman, currently a research staff at the University of Minnesota
-- 👀 I’m interested in developing scientific software and automated workflows for performing molecular simulations
-- 🌱 I’m currently using a range of molecular simulation and machine learning techniques to investigate chemical separation mechanisms at nanoscale for proposing improved membrane materials
-- 💞️ I’m looking to collaborate on: [give] developing automated and reproducible molecular simulation workflows and [take] exploring advanced ML methods to get newer insights from my molecular simulation data
-- 📫 You can reach out to me at `sbkashif38 [at] gmail [dot] edu`
+- 👋 Hi, I’m Salman, a Research Staff Member at the University of Minnesota.
+- 🛠️ **Coding focus:** Developing scientific software and automated workflows around standard molecular simulation engines.
+- ⚗️ **Physical systems:** Discovering new materials for chemical separations by investigating nanoscale mechanisms, complemented by data-driven techniques.
+- 🤝 **Collaboration:** I specialize in reproducible simulation pipelines and literature on chemical separations and molecular simulaitons. I’m looking to partner with ML experts to build new physics-based ML models and analysis pipelines for molecular simulation data.
+- ⚡ **Philosophy:** Applying pragmatic software rigor and automation to ensure reproducibility, while maintaining a focus on scientific questions and physical insights.
+- 📫 You can reach out to me at `sbkashif38 [at] gmail [dot] com`.
 
 <!---
 sbkashif/sbkashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
